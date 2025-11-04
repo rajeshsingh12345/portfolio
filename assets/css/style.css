@@ -1124,6 +1124,7 @@ body .body-overlay {
     color: var(--primary_color);
     font-weight: 300;
     margin: 0;
+    display: none;
 }
 
 .skills .skill p {
